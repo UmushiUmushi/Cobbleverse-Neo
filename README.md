@@ -15,4 +15,4 @@ Cobbleverse is a Cobblemon-based modpack originally built on Fabric. Cobbleverse
 
 See `PORT_DOCUMENTATION.md` inside the modpack for full details on the port process, mod replacements, and known issues.
 
-This is an unofficial NeoForge port of Cobbleverse, originally created by Lumyverse. All credit and ownership belongs to the original creators."
+This is an unofficial NeoForge port of Cobbleverse, originally created by Lumyverse. All credit and ownership belongs to the original creators.
