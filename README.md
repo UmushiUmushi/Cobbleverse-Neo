@@ -1,6 +1,6 @@
 # Cobbleverse Neo
 
-A NeoForge port of the Cobbleverse Fabric modpack for Minecraft 1.21.1.
+An Unofficial NeoForge port of the Cobbleverse Fabric modpack for Minecraft 1.21.1.
 
 ## Installation
 
@@ -15,6 +15,4 @@ Cobbleverse is a Cobblemon-based modpack originally built on Fabric. Cobbleverse
 
 See `PORT_DOCUMENTATION.md` inside the modpack for full details on the port process, mod replacements, and known issues.
 
-## License
-
-See [LICENSE](LICENSE) for details.
+This is an unofficial NeoForge port of Cobbleverse, originally created by Lumyverse. All credit and ownership belongs to the original creators."
